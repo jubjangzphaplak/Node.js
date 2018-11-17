@@ -8,7 +8,7 @@
     "start": "node src/app.js",
     "dev": "nodemon src/app.js"
   },
-  "author": "Peeranan Reanmataen",
+  "author": "Phaplak Saethapan",
   "license": "ISC",
   "dependencies": {
     "docker": "^1.0.0",
